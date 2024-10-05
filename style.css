@@ -1,8 +1,9 @@
 body{
   font-family: "Helvetica Neue",Arial,"Hiragino Kaku Gothic ProN","Hiragino Sans",Meiryo,sans-serif;
   margin: 0;
+  color: #f440c7;
   padding: 20px;
-  background-color: #ddd;
+  background-color: #f339fa;
   line-height: 1.8;
 }
 
@@ -21,10 +22,10 @@ img{
 .wrapper{
   max-width: 600px;
   margin: 0 auto;
-  background-color: #fff;
+  background-color: #7df3f9;
   padding: 10px;
   border-radius: 5px;
-  box-shadow: 0 0 10px 0px rgba(0,0,0,0.2);
+  box-shadow: 0 0 10px 0px rgba(237, 230, 230, 0.89);
 }
 
 #namecard{
@@ -54,7 +55,7 @@ h2.title{
 ul.history_list li{
   list-style: none;
   display: flex;
-  border-bottom: 1px dotted #ccc;/* 下線の点線 */
+  border-bottom: 1px dotted #96b207;/* 下線の点線 */
   margin-bottom: 1em;
   padding-bottom: 0.2em;
 }
